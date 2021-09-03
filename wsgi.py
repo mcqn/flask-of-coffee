@@ -1,6 +1,6 @@
 # Exceedingly simple flask app for Heroku pipeline tests
 
-from flask import Flask, send_from_directory, jsonify
+from flask import Flask
 import random
 
 
