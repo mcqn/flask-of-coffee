@@ -1,4 +1,4 @@
-# Exceedingly simple backend mockup to allow for Armie testing
+# Exceedingly simple flask app for Heroku pipeline tests
 
 from flask import Flask, send_from_directory, jsonify
 import random
